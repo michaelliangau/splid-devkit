@@ -157,3 +157,5 @@ cython_debug/
 
 trained_model/
 predictions
+dataset/*
+submission/*
